@@ -1,0 +1,24 @@
+{
+  "name": "job-scrapper",
+  "version": "1.0.0",
+  "description": "scrapping https://jobs.nvoids.com/search.jsp for jobs u want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asb-frontend/job-scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asb-frontend/job-scrapper/issues"
+  },
+  "homepage": "https://github.com/asb-frontend/job-scrapper#readme",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "puppeteer": "^24.4.0"
+  }
+}
